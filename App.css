@@ -1,0 +1,26 @@
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding:20px;
+  background-image: url("https://cdn.culture.ru/images/03a97171-0ffa-5da6-8d4a-84c55af65935");
+color:rgb(63, 0, 238);
+
+
+}
+.wrapper h1{
+  text-align: center;
+  width: 100%;
+  background-color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: hsl(298, 81%, 36%);
+}
+.wrapper h2{
+  text-align: center;
+  width: 100%;
+  background-color: aqua;
+  color: hsl(298, 81%, 36%);
+}
+.footer{
+  background-color: aqua;
+}

@@ -1,0 +1,13 @@
+.Footer{
+    font-family: 'Franklin Gothic Medium';
+    background-color: antiquewhite;
+    display:inline-flex ;
+   
+    text-align:center;
+    padding: 1px;
+    color: darkcyan;
+    font-size: 30px;
+    width: 100%;
+    
+    bottom: 0;
+}

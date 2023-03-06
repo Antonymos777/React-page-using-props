@@ -1,0 +1,11 @@
+.Header{
+    font-family: 'Times New Roman';
+    background-color: #fdd90b;
+    color: #fff;
+    text-align:center;
+    padding:10px;
+    font-size: 30px;
+    display: flex;
+    width: 100000px;
+    max-width:100%;
+}
